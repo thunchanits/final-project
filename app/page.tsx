@@ -1,6 +1,6 @@
 export default function Loginpage() {
   return (
-    <div className="border text-lg bg-[url('/bglogin.png')] bg-cover min-h-[100vh] justify-center flex flex-col items-center">
+    <div className="border text-lg bg-[url('/bglogin.png')] bg-cover min-h-[100vh]">
       <div className="flex flex-col gap-4">
         <img className="w-[306px] h-[94px]" src="/logopasskit.svg"></img>
         <h1 className="text-2xl font-normal text-white">Make your journey</h1>
