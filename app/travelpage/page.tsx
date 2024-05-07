@@ -1,6 +1,6 @@
 export default function travelpage() {
   return (
-    <div className="text-lg bg-[url('/Home.svg')] bg-cover min-h-[100vh] flex flex-col gap-10 p-6">
+    <div className="text-lg bg-[url('/Home.svg')] bg-cover min-h-[100vh] flex flex-col gap-16 p-6">
       <div className="flex flex-col content-start items-left gap-2">
         <h1 className="text-xl font-semibold text-white px-2">Hi, Rosie</h1>
         <a
