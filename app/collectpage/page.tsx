@@ -25,7 +25,7 @@ export default function collectpage() {
             Good memories
           </h4>
         </div>
-        <a href="/homepage">
+        <a href="/finishpage">
           <h1 className="text-[#070600] text-base font-normal underline">
             close
           </h1>
