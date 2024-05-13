@@ -14,14 +14,14 @@ export default function passpage() {
             <img className="size-[124px]" src="/stampitaly.svg"></img>
             <img
               className="size-[124px] shadow-lg shadow-[#FF5500]"
-              src="/stampcanada.svg"
+              src="/newstamp.png"
             ></img>
           </div>
         </div>
         <h1 className="text-[#FF5500] font-normal text-base">1</h1>
       </div>
       <a href="/collectpage">
-       <img className="pt-10" src="/homeicon.svg"></img>
+        <img className="pt-10" src="/homeicon.svg"></img>
       </a>
     </div>
   );
